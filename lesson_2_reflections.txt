@@ -6,3 +6,7 @@ Staging all of the changes for a logical change and diff them to the last commit
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Many times, mostly when you're trying things out.
+
+How do the diagrams help you visualize the branch structure?
+
+They're alright, about as good as as the oneline log
