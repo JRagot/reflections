@@ -10,3 +10,8 @@ Many times, mostly when you're trying things out.
 How do the diagrams help you visualize the branch structure?
 
 They're alright, about as good as as the oneline log
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Complexity vs time that it takes
